@@ -1,4 +1,4 @@
-package com.bbt2000.kotlin.classs
+package com.bbt2000.kotlin.delegate
 
 interface Base {
     fun println()
